@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''This Python program is to write letters using the turtle module.
-This is also slightly incomplete with not all characters included'''
+This is also slightly incomplete with not every character included, but still a lot'''
 
 from turtle import *
 from random import randint, choice
